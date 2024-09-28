@@ -1,7 +1,8 @@
 # Supply-Chain-Analytics
+This project focuses on analyzing the supply chain of three product categories: haircare, skincare, and cosmetics. Utilizing a dataset with 100 rows and 24 columns, I performed exploratory data analysis (EDA) to evaluate various cost factors, including transportation, shipping, and manufacturing costs. Additionally, I conducted a defect rate analysis and assessed supply chain risks, and optimizing inventory using the Economic Order Quantity (EOQ) model. Customer segmentation analysis was also carried out to better understand consumer behavior. Moreover, I employed LightGBM with k-fold cross-validation for accurate demand forecasting and cost optimization. This comprehensive approach aims to enhance operational efficiency and improve decision-making within the supply chain.
 
 ## Dataset
-We have data of about 3 product types. The dataset has the following features:
+The dataset has the following features:
 * Product Type: The type of product associated with specific data in the supply chain.
 * SKU (Stock Keeping Unit): Unique code used to identify a particular product.
 * Price: The price of the product or item in the supply chain.
